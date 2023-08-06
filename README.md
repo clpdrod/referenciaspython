@@ -14,5 +14,5 @@ https://automatetheboringstuff.com/2e/
 A questão desse livro é que ele tem um site para você ler livremente, não precisa ter o livro. Esse pessoal salva a nossa vida com esses guias <3 recomendo demais.
 ## Um livro pra você pesquisar, da vibe do Automate The Boring Stuff:
 ### Nota: 7✨
-Python Crash Course
+Python Crash Course (Curso Intensivo de Python, em português)
 
